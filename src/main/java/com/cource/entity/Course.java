@@ -10,6 +10,10 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
+/*
+    Cource entity class
+* */
+
 @Entity
 @Setter
 @Getter
