@@ -11,7 +11,7 @@ import lombok.NoArgsConstructor;
 import lombok.Setter;
 
 /*
-    Cource entity class
+    Cource entity class details
 * */
 
 @Entity
